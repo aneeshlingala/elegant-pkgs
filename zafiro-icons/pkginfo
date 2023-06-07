@@ -1,3 +1,3 @@
-name="zafiro-icons"
-pkgrel="1"
-source="https://github.com/zayronxio/Zafiro-icons"
+export name="zafiro-icons"
+export pkgrel="1"
+export source="https://github.com/zayronxio/Zafiro-icons"
