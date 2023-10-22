@@ -1,5 +1,4 @@
 #!/bin/bash
-echo "Installing Zafiro Icons..."
 
 #[en]Created required directories
 echo "Created required directories"
