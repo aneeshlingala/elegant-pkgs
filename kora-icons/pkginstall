@@ -1,6 +1,5 @@
 #!/bin/bash
 
-echo "Installing Kora icons..."
 cd ~
 sudo git clone https://github.com/bikass/kora
 cd kora
